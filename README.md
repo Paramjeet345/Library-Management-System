@@ -12,3 +12,9 @@ A full stack application using Spring Boot, Angular and MySQL.
 *Uses BCryptPasswordEncoder to encrypt the password stored in the database.
 
 *Redirects to forbidden page if a role doesn't have access to the url.
+
+
+{
+    username: "user",
+    password: "password"
+}
